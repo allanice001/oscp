@@ -22,4 +22,4 @@ The templates are written in markdown. But I never actually rendered them, so I 
 
 The templates have a few keywords in the, like **INSERTIPADDRESS**. These are hooks that are read by reconscan.py, and it insert the target machine IP-address automatically. Some other stuff are also inserted automatically, like the a basic nmap-scan. And nikto-scan.
 
-Wherever there are references to a book. This is the book: https://bobloblaw.gitbooks.io/security/content/
+Wherever there are references to a book. This is the book: https://infrascloudy.gitbook.io/security/
